@@ -1,3 +1,9 @@
+let edad = prompt("que edad tenes")
+
+alert( edad >= 18 ? "podes entrar" : "no podes entrar")
+
+
+
 const productos = [
    { nombre :"iphone 7",
     id :" iphone-7",
